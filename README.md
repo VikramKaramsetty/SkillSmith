@@ -18,6 +18,7 @@ judge task ─▶ try skill ─▶ camera verifies ─▶ FAIL ─▶ Droid edit
 
 Skillsmith won the **Factory Droid SDK track** at Cal Hacks 13.0. Built by Rohan Pejaver,
 Vikram Karamsetty, Nishanth Sathisha and Vedansh Wadhwani from Carnegie Mellon University.
+[![Skillsmith demo](https://img.youtube.com/vi/Ut2CdytFdAQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ut2CdytFdAQ)
 
 ![Team Skillsmith at Cal Hacks 13.0](docs/images/calhacks-win.jpg)
 
